@@ -69,6 +69,7 @@ This is the **core of the project**, where AI generates **meaningful summaries**
 
 ### 🌐 5. Web Application - Making It User-Friendly  
 A **ReactJS-based frontend** allows users to **upload videos and receive summaries instantly**.  
+Try it here: https://videosumm.netlify.app/
 
 #### 👉 How it works:  
 1️⃣ **User uploads a video** 🎥  
@@ -96,6 +97,8 @@ The complete workflow follows these steps:
 ✅ **📊 BLEU Score**: **0.53** (evaluated on a custom dataset)  
 
 ---
+
+
 
 ## 📂 Dataset & Resources  
 📌 **Custom Video Dataset**: **Sports, news, podcasts & more!**  
